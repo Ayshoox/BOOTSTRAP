@@ -1,0 +1,50 @@
+/*  <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
+  <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>*/
+
+  .banner {
+  	background-color:#077401;
+  	height: 70vh;
+  	background-size: cover;
+  	color: white;
+
+  }
+ .btn-blue {
+  color: white;
+  padding: 15px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #428BCA;
+  transition: background 0.3s ease;
+  text-transform: uppercase;
+  width: 9%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-blue:hover {
+  opacity: 1;
+  background: #3932B0;
+  text-decoration: none;
+  color: white;
+}
+
+.deuxieme {
+	height: 55vh;
+	background-color: #F0FF00;
+	background-size: cover;
+}
+
+.row {
+	color: #077401;
+  margin-top: 110px;
+  text-align: center;
+
+}
+
+.troisieme {
+  height: 40vh;
+  background-color: #EC2915;
+  background-size: cover;
+}
+
+.
